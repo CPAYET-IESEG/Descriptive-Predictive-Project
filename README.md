@@ -1,2 +1,2 @@
-Python_Project-Descriptive-Predictive-Project
+#Python_Project-Descriptive-Predictive-Project
 DSC is an organization that helps non-profit organisations finding donors for their good causes. They have a huge database with candidate donors. DSC wants to launch a new re-activation campaign: they want to send letters to donors that have been inactive for a long time, hoping that they will donate again. They only want to send letters to candidate donors that are likely to donate more than EUR 35. We need to construct a model that predicts which donors are most likely to donate more than EUR 35 for a re-activation campaign.
